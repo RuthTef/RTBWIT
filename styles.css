@@ -1,0 +1,14 @@
+.firstHeader {
+    color:#8a2be2;
+    font-size: 2em;
+    font-weight:bolder;
+}
+.firstParagraph {
+    color:#e22bab;
+    font-size: 1em;
+    font-weight:bolder;
+}
+.pic {
+    width: 300px;
+    height: 200px;
+}
